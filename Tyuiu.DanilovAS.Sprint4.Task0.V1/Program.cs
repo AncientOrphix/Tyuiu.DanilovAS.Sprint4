@@ -6,7 +6,7 @@ namespace Tyuiu.DanilovAS.Sprint4.Task0.V1
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
 
             Console.Title = "Спринт #4 | Выполнил: Данилов А. С. | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
