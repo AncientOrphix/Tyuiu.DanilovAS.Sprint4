@@ -11,7 +11,7 @@ namespace Tyuiu.DanilovAS.Sprint4.Task1.V1
             Console.Title = "Спринт #4 | Выполнил: Данилов А. С. | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Одномерные массивы. (ввод с клавиатуры)                           *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Данилов Александр Сергеевич |  ИИПб-24-2                      *");
