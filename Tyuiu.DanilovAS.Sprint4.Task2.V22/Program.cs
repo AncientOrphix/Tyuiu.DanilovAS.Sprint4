@@ -12,7 +12,7 @@ namespace Tyuiu.DanilovAS.Sprint4.Task2.V22
             Console.Title = "Спринт #4 | Выполнил: Данилов А. С. | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Одномерные массивы. (генератор случайных чисел)                   *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #22                                                             *");
             Console.WriteLine("* Выполнил: Данилов Александр Сергеевич |  ИИПб-24-2                      *");
